@@ -1,5 +1,5 @@
-- Hi, I’m @Knight9876
-- I’m interested in Coding and Web Development
+- Hi, I’m Yash Kamble
+- I’m interested in Web Development
 - I’m currently learning React and Node.js
 - I'm currently pursuing B.E. from St. John College of Engineering and Management
 - How to reach me:
