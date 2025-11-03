@@ -1,6 +1,6 @@
 - Hi, I’m Yash Kamble.
 - A Frontend Developer skilled in React, TypeScript, BootStrap, Tailwind and Animation.
-- Currently learning Backend Development (MongoDB). Aiming for Full-Stack Developer (MERN).
+- Currently learning Backend Development (MongoDB). Aiming to be a Full-Stack Developer (MERN).
 - Pursued B.E.-I.T. from St. John College of Engineering and Management in 2025.
 - How to reach me:
 - 1. Mail: yashkamble824@gmail.com
